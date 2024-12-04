@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PoolSafe - Online Voting System</title>
+    <title>PollSafe - Online Voting System</title>
 </head>
 
 <body>
-    <x-nav-bar></x-nav-bar>
+    <x-nav-bar-guest></x-nav-bar-guest>
 
     <div class="container">
         <div class="upper-section">
